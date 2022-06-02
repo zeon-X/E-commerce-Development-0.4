@@ -5,7 +5,9 @@
         "title": "Browse premium related images on iStock",
         "price": 3000,
         "btn_title": "Buy this product",
-        "btn_link": "/lol"
+        "btn_link": "/lol",
+        "rating": 3.4,
+        "sold": 101
     },
     {
         "id": "2",
@@ -13,7 +15,9 @@
         "title": "Browse premium related images on iStock",
         "price": 3000,
         "btn_title": "Buy this product",
-        "btn_link": "/lol"
+        "btn_link": "/lol",
+        "rating": 3.4,
+        "sold": 101
     },
     {
         "id": "3",
@@ -21,7 +25,9 @@
         "title": "Browse premium related images on iStock",
         "price": 3000,
         "btn_title": "Buy this product",
-        "btn_link": "/lol"
+        "btn_link": "/lol",
+        "rating": 3.4,
+        "sold": 101
     },
     {
         "id": "4",
@@ -29,7 +35,9 @@
         "title": "Browse premium related images on iStock",
         "price": 3000,
         "btn_title": "Buy this product",
-        "btn_link": "/lol"
+        "btn_link": "/lol",
+        "rating": 3.4,
+        "sold": 101
     },
     {
         "id": "5",
@@ -37,7 +45,9 @@
         "title": "Browse premium related images on iStock",
         "price": 3000,
         "btn_title": "Buy this product",
-        "btn_link": "/lol"
+        "btn_link": "/lol",
+        "rating": 3.4,
+        "sold": 101
     },
     {
         "id": "6",
@@ -45,7 +55,9 @@
         "title": "Browse premium related images on iStock",
         "price": 3000,
         "btn_title": "Buy this product",
-        "btn_link": "/lol"
+        "btn_link": "/lol",
+        "rating": 3.4,
+        "sold": 101
     },
     {
         "id": "7",
@@ -53,7 +65,9 @@
         "title": "Browse premium related images on iStock",
         "price": 3000,
         "btn_title": "Buy this product",
-        "btn_link": "/lol"
+        "btn_link": "/lol",
+        "rating": 3.4,
+        "sold": 101
     },
     {
         "id": "8",
@@ -61,7 +75,9 @@
         "title": "Browse premium related images on iStock",
         "price": 3000,
         "btn_title": "Buy this product",
-        "btn_link": "/lol"
+        "btn_link": "/lol",
+        "rating": 3.4,
+        "sold": 101
     },
     {
         "id": "9",
@@ -69,6 +85,8 @@
         "title": "Browse premium related images on iStock",
         "price": 3000,
         "btn_title": "Buy this product",
-        "btn_link": "/lol"
+        "btn_link": "/lol",
+        "rating": 3.4,
+        "sold": 101
     }
 ]

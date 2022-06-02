@@ -6,3 +6,14 @@
     padding: 10px 100px;
     text-align: center;
 }
+.add_to_cart_btn:hover{
+    background-color: rgba(0, 0, 0, 0.999);
+}
+
+.wishlist_btn{
+    display: flex;
+    justify-content: center;
+}
+.wishlist_btn:hover{
+    color: red;
+}
