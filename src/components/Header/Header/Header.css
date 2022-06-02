@@ -1,0 +1,6 @@
+.header_section_lg {
+    position: sticky;
+    top: 0;
+
+    z-index: 111;
+}

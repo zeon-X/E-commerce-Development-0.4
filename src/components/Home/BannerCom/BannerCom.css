@@ -1,0 +1,18 @@
+.slick-dots li {
+    margin: 0px 8px;
+}
+
+
+.carousol_cover_photo {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    height: 55vh;
+    width: 100%;
+}
+
+.slick-next,
+.slick-prev {
+    background-color: white !important;
+}

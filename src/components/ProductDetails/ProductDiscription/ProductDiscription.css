@@ -1,0 +1,13 @@
+.details_btn {
+    background-color: rgba(238, 233, 233, 0.522);
+    padding: 10px;
+
+    color: rgb(28, 152, 200);
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.details_btn_active,.details_btn:hover{
+    background-color: rgba(128, 128, 128, 0.659);
+    color: white;
+}

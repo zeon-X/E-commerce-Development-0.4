@@ -1,0 +1,27 @@
+.menu_link_container {
+    position: relative;
+}
+
+.mega_menu_container {
+    position: absolute;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 4px;
+
+    padding: 10px 20px;
+    width: 150px;
+
+    transition: all 0.5s ease-in-out;
+    opacity: 0;
+    visibility: hidden;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.menu_link_container:hover .mega_menu_container {
+    margin-top: 9px;
+    visibility: visible;
+    opacity: 1;
+
+}

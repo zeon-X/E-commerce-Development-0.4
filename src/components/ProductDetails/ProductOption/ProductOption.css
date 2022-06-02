@@ -1,0 +1,8 @@
+.add_to_cart_btn {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.898);
+    border-radius: 4px;
+
+    padding: 10px 100px;
+    text-align: center;
+}

@@ -1,0 +1,6 @@
+.slick-next,
+.slick-prev {
+    background-color: rgba(128, 128, 128, 0.39) !important;
+    border-radius: 50%;
+    border: 0;
+}

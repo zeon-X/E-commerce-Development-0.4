@@ -1,0 +1,68 @@
+[
+    {
+        "id": "aaaaaaaa",
+        "image": [
+            "https://i.ibb.co/cyvN66f/2-D6qur-LBKN4y-QLTRNbs-Cz-K.jpg",
+            "https://i.ibb.co/6XvxNZD/182855-estee-lauder-advance.webp",
+            "https://i.ibb.co/2KrCQ40/ReDew.webp",
+            "https://i.ibb.co/GQVsXyv/image.jpg",
+            "https://i.ibb.co/QKxT5kb/images.jpg",
+            "https://i.ibb.co/sJ7p8B2/4cada9219e10dc35cc8f7d3de21817c5-large.webp",
+            "https://i.ibb.co/rm2XZ6d/2022-index-makeup-essentials-1645556621.jpg",
+            "https://i.ibb.co/Hd4wsKd/Vpp-V25-POP7-Skincare.jpg",
+            "https://i.ibb.co/ZKw1Dzp/images.jpg"
+        ],
+        "title": "9-In-1 Beauty kit",
+        "rating": {
+            "rate": 4,
+            "totalRate": 116
+        },
+        "price": {
+            "currentPrice": 1499,
+            "prevPrice": 1999,
+            "discount": 34
+        },
+        "details": [
+            {
+                "id": 1,
+                "name": "description",
+                "dis": "SUGAR 9 in 1 Beauty Kit is a real steal with nine incredible makeup and skincare bestsellers and a super gorgeous pouch. It's a perfect addition to upgrade your beauty routine. Whether it’s radiant skin that you want, perfect pout or eyes that make everyone fall in love, this limited edition beauty kit has got it all covered."
+            },
+            {
+                "id": 2,
+                "name": "ingredients",
+                "dis": " Contour De Force Mini Blush: Talc, Mica, Caprylic/Capric Triglyceride, Dimethiconol Stearate, Magnesium Myristate, Dimethicone, Trimethylsiloxysilicate, Caprylyl Glycol, Phenoxyethanol"
+            },
+            {
+                "id": 3,
+                "name": "reviews",
+                "dis": [
+                    {
+                        "id": "1",
+                        "name": "Mr Lolita",
+                        "image": "",
+                        "text": "very nice product liked it",
+                        "date": "03-05-2022",
+                        "rating": "5.00"
+                    },
+                    {
+                        "id": "2",
+                        "name": "Mr Lolita",
+                        "image": "",
+                        "text": "very nice product liked it",
+                        "date": "03-05-2022",
+                        "rating": "5.00"
+                    },
+                    {
+                        "id": "3",
+                        "name": "Mr Lolita",
+                        "image": "",
+                        "text": "very nice product liked it",
+                        "date": "03-05-2022",
+                        "rating": "5.00"
+                    }
+                ]
+            }
+        ]
+    }
+]

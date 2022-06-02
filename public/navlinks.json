@@ -1,0 +1,103 @@
+[
+    {
+        "id": "1",
+        "name": "MAKEUP",
+        "link": "/makeup",
+        "submenu": [
+            {
+                "subname": "LIPS",
+                "sublink": "/abbbc"
+            },
+            {
+                "subname": "FACE",
+                "sublink": "/abbbc"
+            },
+            {
+                "subname": "EYE",
+                "sublink": "/abbbc"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "BRUSHES",
+        "link": "/brushes",
+        "submenu": [
+            {
+                "subname": "EYE BRUSH",
+                "sublink": "/abbbc"
+            },
+            {
+                "subname": "FACE BRUSH",
+                "sublink": "/abbbc"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "SKINCARE",
+        "link": "/skincare",
+        "submenu": [
+            {
+                "subname": "MOISTERISZER",
+                "sublink": "/abbbc"
+            },
+            {
+                "subname": "SUNSCREAM",
+                "sublink": "/abbbc"
+            },
+            {
+                "subname": "MASK",
+                "sublink": "/abbbc"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "TRENDING",
+        "link": "/trending",
+        "submenu": [
+            {
+                "subname": "MAKEUP KIT",
+                "sublink": "/abbbc"
+            },
+            {
+                "subname": "BEST SELLER",
+                "sublink": "/abbbc"
+            },
+            {
+                "subname": "EYE",
+                "sublink": "/abbbc"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "name": "BLOG",
+        "link": "/blog",
+        "submenu": [
+            {
+                "subname": "LIPS",
+                "sublink": "/abbbc"
+            },
+            {
+                "subname": "FACE",
+                "sublink": "/abbbc"
+            },
+            {
+                "subname": "EYE",
+                "sublink": "/abbbc"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "name": "OFFER",
+        "link": "/offer"
+    },
+    {
+        "id": "7",
+        "name": "STORES",
+        "link": "/store"
+    }
+]

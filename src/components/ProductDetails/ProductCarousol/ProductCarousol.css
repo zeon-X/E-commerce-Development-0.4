@@ -1,0 +1,16 @@
+.display_img:hover {
+    transform: scale(1.4);
+}
+
+.arrow_btn {
+    color: white;
+    background-color: rgba(128, 128, 128, 0.276);
+}
+
+.arrow_btn:hover {
+    color: rgba(0, 0, 0, 0.634);
+}
+
+.cycle_img:hover {
+    transform: scale(0.9);
+}
